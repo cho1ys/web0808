@@ -1,0 +1,12 @@
+body{
+    background-color:#ccc;
+}
+.front{
+    color : rgb(163, 204, 102);
+}
+.back{
+    color : skyblue;
+}
+.full{
+    color : rgb(174, 109, 235);
+}
